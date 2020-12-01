@@ -1,0 +1,17 @@
+{
+  "name": "proposalsapi",
+  "version": "1.0.0",
+  "description": "Proposals test API for 2021 Peru candidates elections",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Helen S.Zegarra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
