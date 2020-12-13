@@ -1,11 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
   </head>
   <body>
-    <h1>Testing Post</h1>
+    <h1> Welcome to Proposals API</h1>
+    <div><a href="/">Post Proposal </a> | <a href="/proposals">View</a></div>
+    <p>
+    <p> Add here your proposals to the database <p>
+      <hr/>
+      <p>
+        <label for="keywords"> Keywords:</label><br>
+        <input type="text" id="keywords" value=""><br>
+        <label for="proposal">Proposal:</label><br>
+        <input type="text" id="proposal" value=""><br>
+        <label for="candidate">Candidate:</label><br>
+        <input type="text" id="candidate" value=""><br>
+        <label for="politicalparty">Political Party:</label><br>
+        <input type="text" id="politicalparty" value=""><br>
+        <button id="submit">Submit</button>
+      </p>
     <script src="sketch.js"></script>
   </body>
 </html>
