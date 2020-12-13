@@ -1,10 +1,23 @@
-[
-    {
-        "proposal": "1",
-        "text": "Elimination of parliamentary immunity.",
-        "politicalp": "frepap",
-        "year":2020,
-        "candidate": none,
-        }
-    },
-]
+
+{
+    "proposals": {
+        "accion popular ": [
+            { " keywords":"confront the executive", "ptext":"Be a democratic obstructionist Congress to confront the Executive", "candidate":"Mesías Guevara"},
+            { " keywords":"electoral ads", "ptext":"Improve the electoral ads in the media so that everyone has access.", "candidate":"Mesías Guevara"},
+            { " keywords":"corruption", "ptext":"Protect people who report corruption crimes in public entities and prevent them from being subjected to retaliation..", "candidate":"Mesías Guevara"},
+            { " keywords":"young people", "ptext":"Promote more young people in politics.", "candidate":"Mesías Guevara"},
+            { " keywords":"education", "ptext":"Formation of a superintendency to supervise education in schools.", "candidate":"Mesías Guevara"},
+            { " keywords":"congress", "ptext":"Renewal by thirds of Congress.", "candidate":"Mesías Guevara"},
+            { " keywords":"constitution", "ptext":"Modify the Constitution to include in its text the obligation of all officials to present an affidavit of interest.", "candidate":"Mesías Guevara"},
+        ],
+        "Alianza para el progreso": [
+          { " keywords":"sports ministry", "ptext":"Creation of a sports ministry", "candidate":"Omar Chehade"},
+          { " keywords":"parliamentary immunity", "ptext":"Partial removal of parliamentary immunity.", "candidate":"Omar Chehade"},
+          { " keywords":"people with disabilities", "ptext":"General law on people with disabilities.", "candidate":"Omar Chehade"},
+          { " keywords":"Young people", "ptext":"Promote more young people in politics.", "candidate":"Mesías Guevara"},
+          { " keywords":"Education", "ptext":"Formation of a superintendency to supervise education in schools.", "candidate":"Mesías Guevara"},
+          { " keywords":"Congress", "ptext":"Renewal by thirds of Congress.", "candidate":"Mesías Guevara"},
+
+        ]
+    }
+}
